@@ -8,8 +8,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/mrusme/starshield/reader"
-	"github.com/mrusme/starshield/serialdata"
+	"github.com/mrusme/starshieldd/reader"
+	"github.com/mrusme/starshieldd/serialdata"
 )
 
 var STATE serialdata.SerialData

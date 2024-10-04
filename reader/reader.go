@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/mrusme/starshield/serialdata"
+	"github.com/mrusme/starshieldd/serialdata"
 	"go.bug.st/serial"
 )
 
